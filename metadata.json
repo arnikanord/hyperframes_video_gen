@@ -1,0 +1,6 @@
+{
+  "name": "HyperFrames Studio - Web Video Generator & HeyGen Renderer",
+  "description": "Interactive web-based video generation studio powered by HyperFrames HTML-to-video architecture with HeyGen API and Google OAuth connection for direct browser video rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
